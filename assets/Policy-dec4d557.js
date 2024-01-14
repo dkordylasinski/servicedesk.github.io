@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,a as c}from"./index-193cd5e6.js";const s={},n=c("h1",null,"Policy",-1),a=[n];function r(_,l,i,d,p,f){return o(),t("div",null,a)}const h=e(s,[["render",r]]);export{h as default};
